@@ -9,7 +9,7 @@ app.post('/api/search/user', function(req,res,next){
 });
 
 app.post('/api/search/address', function(req,res,next){
-    return res.json({"street" : "test123"});
+    return res.json({"street" : "test1234"});
 });
 
 var server = http.createServer(app);
