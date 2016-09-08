@@ -1,7 +1,7 @@
 ##############################
 # BUILD
 #############################
-#   docker build -t microservice-api/microservice-example .
+#   docker build -t microservice-example .
 
 ##############################
 # SET THE FF ENVIRONMENT CONFIGS
